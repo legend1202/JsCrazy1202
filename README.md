@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkDrake0916
-- 👀 I’m interested in JS & Python
+- 👀 Frontend Expert focusing on React, NextJs
 - 🌱 Independent, Creative, Goal-oriented individual.
 - 🌱 Problem Solver, Fast Learner, Great team player
 - 🌱 Senior Web developer who crazy about JavaScript & TypeScript
