@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MarkDrake0916
-- 👀 Frontend Expert focusing on React & NextJs with strong knowledge about HTML/CSS
+- 👋 Hi, I’m Mark
+- I have the skills and abilities about Frontend development and I always perform highly in that role with 10 years of experience.
+- 👀 Focusing on productivity & teamwork with strong knowledge about Frontend development, enjoy working with team members, especially backend developers.
 - 🌱 Independent, Creative, Goal-oriented individual.
-- 🌱 Problem Solver, Fast Learner, Great team player
-- 🌱 Senior Web developer who crazy about JavaScript & TypeScript
-- 📫 How to reach me markdrake0916@gmail.com
+- 🌱 Strong Communicator, Problem Solver, Fast Learner.
+- 📫 How to reach me: E-mail markdrake0916@gmail.com, Best number +1 312 600 0471
 
 <!---
 MarkDrake0916/MarkDrake0916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
