@@ -4,7 +4,6 @@
 - 😊 Independent, Creative, Goal-oriented individual.
 - 😊 Strong Communicator, Problem Solver, Fast Learner.
 - 👉 I'm learning every second for my career goal and improvement.
-- 📫 How to reach me: Skype: live:.cid.13d4f7f580f66861
 
 <!---
 MarkDrake0916/MarkDrake0916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
