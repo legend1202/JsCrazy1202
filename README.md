@@ -20,7 +20,7 @@ Insights
 22 lines (15 sloc)  1.69 KB
  
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Senior Blockchain & Web Developer
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Web & Mobile App, Blockchain Developer
 ![image](https://user-images.githubusercontent.com/81493223/129195290-c31262f0-fa54-4676-b386-b68b375e2266.png)
 
 
