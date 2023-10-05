@@ -1,8 +1,8 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Web & Mobile App, Blockchain Developer
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Crazy Developer
 ![image](https://user-images.githubusercontent.com/81493223/129195290-c31262f0-fa54-4676-b386-b68b375e2266.png)
 
 
-Senior Web and Mobile app developer having 8+ years of development.
+Crazy developer having 8+ years of development.
 
 - 🔭 Don't: Ask what the company can do for him.
 - 💬 Do: Ask what this developer can do for the company.
